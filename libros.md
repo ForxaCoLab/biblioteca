@@ -18,3 +18,4 @@
 | Pastor, E. |2009| Participación ciudadana y gestión de las políticas sociales municipales|Murcia:Editum|
 | Subirats, J. |2016| El poder de lo próximo.  Las virtudes del municipalismo|  Madrid:Catarata | 
 | VVAA | 2009| La Administración electrónica y el servicio a los ciudadanos | Ministerio de Economía y Hacienda|
+| VVAA | 2016 | La participació cultural de la joventut catalana 2001-2015 | Generalitat de Catalunya | http://interaccio.diba.cat/sites/interaccio.diba.cat/files/participacioculturaljoves.pdf|
