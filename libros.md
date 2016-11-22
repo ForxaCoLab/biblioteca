@@ -15,6 +15,7 @@
 | Ilich, I. | 1971 | La sociedad desescolarizada | Mexico | http://www.ivanillich.org.mx/desescolar.pdf |
 | Lafuente, A  Alonso, A e Rodriguez J. |2013| ¡Todos Sabios!  Ciencia Ciudadana Y Conocimiento Expandido|Madrid: Teorema|
 | Lorenzana, C. |(ed) 2002|  Tomemos la palabra |Barcelona:Icaria|
+| Manovich, L. | 2008 | Software takes command | New York: Bloomsbury Academic | http://softwarestudies.com/softbook/manovich_softbook_11_20_2008.pdf |
 | Montero, J R; Font, J e Torcal M.| (ed) 2006| Ciudadanos, asociaciones y participación en España | Madrid: CIS|
 | Morozov, E. | 2014 | To save everything, click here | Canada: PublicAffairs |
 | Negroponte, N. | 1995 | Being Digital | Vintage Books|
