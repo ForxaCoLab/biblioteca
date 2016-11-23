@@ -2,6 +2,7 @@
 | ----- | --- | ------ | ------- | --- |
 | Barandiarán, X e Vilá-Viñas, D.|2015|Buen Conocer / FLOK Society Modelos sostenibles y políticas públicas para una economía social del conocimiento común y abierto en el Ecuador|Quito: IAEN e IESPAL| 
 | Benkler, Y.|2015|La riqueza de las redes|Madrid:Icaria|http://www.icariaeditorial.com/pdf_libros/la%20riqueza%20de%20las%20redes.pdf|
+| Bey, Hakim |1991| TAZ, Zona Temporalmente Autónoma | Axóuxere Editora | http://arquivo.axouxerestream.com/wp-content/uploads/2014/01/TAZ_Hakim-Bey_Axouxere.pdf
 | Blanco, I. e Gomá, R.|2016|El municipalisme del bé comú|Barcelona:Icaria|
 | Buckminster Fuller, R | 1968 | Operating Manual for Spaceship Earth | | http://designsciencelab.com/resources/OperatingManual_BF.pdf
 | Calle, A. e Vilaregut, R.|2015|Territorios en democracia. El municipalismo a debate|Barcelona:Icaria|
