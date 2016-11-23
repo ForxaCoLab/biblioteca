@@ -23,6 +23,7 @@
 | Pastor, E. |2009| Participación ciudadana y gestión de las políticas sociales municipales|Murcia:Editum|
 | Rushkoff, D. | 2010 | Program or be programmed | | http://www.rushkoff.com/wp-content/uploads/2015/12/Rushkoff-Study-Guide.pdf |
 | Scharmer, O. | 2008 | Theory U | San Francisco: Berret-Koehler |
-| Subirats, J. |2016| El poder de lo próximo.  Las virtudes del municipalismo|  Madrid:Catarata | 
+| Subirats, J. |2016| El poder de lo próximo.  Las virtudes del municipalismo|  Madrid:Catarata |
+| Valle, J. |2016| La capital del mundo es nosotros|  Madrid:Culbuks |
 | VVAA | 2009| La Administración electrónica y el servicio a los ciudadanos | Ministerio de Economía y Hacienda|
 | VVAA | 2016 | La participació cultural de la joventut catalana 2001-2015 | Generalitat de Catalunya | http://interaccio.diba.cat/sites/interaccio.diba.cat/files/participacioculturaljoves.pdf|
