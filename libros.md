@@ -33,4 +33,4 @@
 | VVAA & Estudo mmasa |2011| A cidade dos barrios. Unha mirada complementaria da Coruña | A Coruña | 
 | VVAA | Nanopolitics Handbook | 2013 | | http://www.minorcompositions.info/wp-content/uploads/2013/09/nanopolitics-web.pdf |
 | VVAA & Zemos98 | 2012 | Educación Expandida | Editoras | http://publicaciones.zemos98.org/educacion-expandida-el-libro |
-| VVAA | Build the City: perspectives on commons and culture / Krytyka Polityczna, the European Cultural Foundation and ECF Labs | | | | http://www.culturalfoundation.eu/library/build-the-city-book
+| VVAA | Build the City: perspectives on commons and culture / Krytyka Polityczna, the European Cultural Foundation and ECF Labs | | | http://www.culturalfoundation.eu/library/build-the-city-book
