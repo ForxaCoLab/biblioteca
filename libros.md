@@ -11,8 +11,8 @@
 | Di Siena, D. |2015| Innovación urbana| |http://urbanohumano.org/sendy/l/XM15ckumESJ2CsIP2laTRw/K3L5Uh3T0Wryr6XhEzPjUQ/HoytlNDTrOLUwKc7a2g892tg|
 | Downes, S. | 2012 | Connectivism and Connective Knowledge | Canada: National Research | http://www.downes.ca/files/books/Connective_Knowledge-19May2012.pdf |
 | Foster, S. e Iaione, C. |2016|The city as a Commons|Yale and Poly Review, vol 34, 281|http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2653084|
-| Garcés, Marina | 2013 | Un mundo común, Barcelona | Edicions Bellaterra |
-| Garcés, Marina | 2015 | Filosofía inacabada | Barcelona | Galaxia Gutenberg |
+| Garcés, Marina | 2013 | Un mundo común | Edicions Bellaterra, Barcelona |
+| Garcés, Marina | 2015 | Filosofía inacabada | Galaxia Gutenberg, Barcelona |
 | Gurrutxaga, A. |2013|Voces y argumentos de la innovación social|Bilbao:Universidad del País Vasco|
 | Himanen, Pekka |2001| La ética del hacker y el espíritu de la era de la información | |http://eprints.rclis.org/12851/1/pekka.pdf|
 | Ilich, I. | 1971 | La sociedad desescolarizada | Mexico | http://www.ivanillich.org.mx/desescolar.pdf |
@@ -31,6 +31,6 @@
 | VVAA | 2009 | La Administración electrónica y el servicio a los ciudadanos | Ministerio de Economía y Hacienda|
 | VVAA | 2016 | La participació cultural de la joventut catalana 2001-2015 | Generalitat de Catalunya | http://interaccio.diba.cat/sites/interaccio.diba.cat/files/participacioculturaljoves.pdf|
 | VVAA & Estudo mmasa |2011| A cidade dos barrios. Unha mirada complementaria da Coruña | A Coruña | 
-| VVAA | Nanopolitics Handbook | 2013 | http://www.minorcompositions.info/wp-content/uploads/2013/09/nanopolitics-web.pdf |
+| VVAA | Nanopolitics Handbook | 2013 | | http://www.minorcompositions.info/wp-content/uploads/2013/09/nanopolitics-web.pdf |
 | VVAA & Zemos98 | 2012 | Educación Expandida | Editoras | http://publicaciones.zemos98.org/educacion-expandida-el-libro |
-| VVAA | Build the City: perspectives on commons and culture / Krytyka Polityczna, the European Cultural Foundation and ECF Labs | | http://www.culturalfoundation.eu/library/build-the-city-book
+| VVAA | Build the City: perspectives on commons and culture / Krytyka Polityczna, the European Cultural Foundation and ECF Labs | | | | http://www.culturalfoundation.eu/library/build-the-city-book
