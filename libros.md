@@ -30,7 +30,7 @@
 | Valle, J. |2016| La capital del mundo es nosotros|  Madrid:Culbuks |
 | VVAA | 2009 | La Administración electrónica y el servicio a los ciudadanos | Ministerio de Economía y Hacienda|
 | VVAA | 2016 | La participació cultural de la joventut catalana 2001-2015 | Generalitat de Catalunya | http://interaccio.diba.cat/sites/interaccio.diba.cat/files/participacioculturaljoves.pdf|
-| VVAA & Estudo mmasa |2011| A cidade dos barrios. Unha mirada complementaria da Coruña | A Coruña | 
+| VVAA & Estudo mmasa |2011| A cidade dos barrios. Unha mirada complementaria da Coruña | A Coruña | https://issuu.com/acidadedosbarrios |
 | VVAA | Nanopolitics Handbook | 2013 | | http://www.minorcompositions.info/wp-content/uploads/2013/09/nanopolitics-web.pdf |
 | VVAA & Zemos98 | 2012 | Educación Expandida | Editoras | http://publicaciones.zemos98.org/educacion-expandida-el-libro |
 | VVAA | Build the City: perspectives on commons and culture / Krytyka Polityczna, the European Cultural Foundation and ECF Labs | | | http://www.culturalfoundation.eu/library/build-the-city-book
