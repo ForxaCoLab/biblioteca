@@ -16,6 +16,7 @@
 | Gurrutxaga, A. |2013|Voces y argumentos de la innovación social|Bilbao:Universidad del País Vasco|
 | Himanen, Pekka |2001| La ética del hacker y el espíritu de la era de la información | |http://eprints.rclis.org/12851/1/pekka.pdf|
 | Ilich, I. | 1971 | La sociedad desescolarizada | Mexico | http://www.ivanillich.org.mx/desescolar.pdf |
+| Innerarity, Daniel  | 2015 | La política en tiempos de indignación | Barcelona: Galaxia Gutemberg |
 | Lafuente, A  Alonso, A e Rodriguez J. |2013| ¡Todos Sabios!  Ciencia Ciudadana Y Conocimiento Expandido|Madrid: Teorema|
 | Lorenzana, C. |(ed) 2002|  Tomemos la palabra |Barcelona:Icaria|
 | Manovich, L. | 2008 | Software takes command | New York: Bloomsbury Academic | http://softwarestudies.com/softbook/manovich_softbook_11_20_2008.pdf |
@@ -26,6 +27,7 @@
 | Pastor, E. |2009| Participación ciudadana y gestión de las políticas sociales municipales|Murcia:Editum|
 | Rushkoff, D. | 2010 | Program or be programmed | | http://www.rushkoff.com/wp-content/uploads/2015/12/Rushkoff-Study-Guide.pdf |
 | Scharmer, O. | 2008 | Theory U | San Francisco: Berret-Koehler |
+| Segovia, Ch; Marrades, R.; Rausell, P. e Abeledo, R. | 2015 | Espacios para la innovación, la creatividad y la cultura | Valencia: PUV, Universitat de Valencia |
 | Subirats, J. |2016| El poder de lo próximo.  Las virtudes del municipalismo|  Madrid:Catarata |
 | Valle, J. |2016| La capital del mundo es nosotros|  Madrid:Culbuks |
 | VVAA | 2009 | La Administración electrónica y el servicio a los ciudadanos | Ministerio de Economía y Hacienda|
